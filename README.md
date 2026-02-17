@@ -87,11 +87,8 @@ This project demonstrates end-to-end application design, real-time state managem
 ---
 
 ## Project Structure
-
 ```txt
 .
 ├── APP.py            # Main Streamlit application
 ├── requirements.txt  # Dependencies
 └── README.md         # Documentation
-
-
